@@ -11,3 +11,10 @@ C:\Users\777\Desktop\simplex\simplex\simplex\obj\Debug\simplex.csprojAssemblyRef
 C:\Users\777\Desktop\simplex\simplex\simplex\obj\Debug\simplex.csproj.CoreCompileInputs.cache
 C:\Users\777\Desktop\simplex\simplex\simplex\obj\Debug\simplex.exe
 C:\Users\777\Desktop\simplex\simplex\simplex\obj\Debug\simplex.pdb
+C:\Users\777\Desktop\simplex\simplex\bin\Debug\simplex.exe.config
+C:\Users\777\Desktop\simplex\simplex\bin\Debug\simplex.exe
+C:\Users\777\Desktop\simplex\simplex\bin\Debug\simplex.pdb
+C:\Users\777\Desktop\simplex\simplex\obj\Debug\simplex.csprojAssemblyReference.cache
+C:\Users\777\Desktop\simplex\simplex\obj\Debug\simplex.csproj.CoreCompileInputs.cache
+C:\Users\777\Desktop\simplex\simplex\obj\Debug\simplex.exe
+C:\Users\777\Desktop\simplex\simplex\obj\Debug\simplex.pdb

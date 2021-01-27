@@ -11,10 +11,10 @@ namespace Simplex
         static void Main(string[] args)
         {
             {
-                double[,] table = { {25, -3,  5},
-                                {30, -2,  5},
-                                {10,  1,  0},
-                                { 6,  3, -8},};
+                double[,] table = { {42, -2,  5},
+                                {20, -1,  5},
+                                {15,  2,  0},
+                                { 7,  5, -4},};
 
                 double[] result = new double[2];
                 double[,] table_result;
